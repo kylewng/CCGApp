@@ -1,0 +1,2 @@
+# CCGApp
+Guitar Practice Logging
